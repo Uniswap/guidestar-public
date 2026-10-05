@@ -1,0 +1,159 @@
+{
+  "chain_id": 1,
+  "factories": {
+    "UniswapV2Factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
+    "UniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+    "PoolManager": "0x000000000004444c5dc75cB358380D2e3dE08A90"
+  },
+  "common_tokens": [
+    "WETH",
+    "ETH",
+    "USDC",
+    "USDT",
+    "WBTC",
+    "USDS",
+    "DAI"
+  ],
+  "fallback_orders": [
+    [
+      "ETH",
+      "WETH",
+      "WBTC",
+      "DAI",
+      "USDC",
+      "USDT"
+    ],
+    [
+      "ETH",
+      "WETH",
+      "WBTC",
+      "DAI",
+      "USDT",
+      "USDC"
+    ],
+    [
+      "ETH",
+      "WETH",
+      "WBTC",
+      "USDC",
+      "DAI",
+      "USDT"
+    ],
+    [
+      "ETH",
+      "WETH",
+      "WBTC",
+      "USDC",
+      "USDT",
+      "DAI"
+    ],
+    [
+      "ETH",
+      "WETH",
+      "WBTC",
+      "USDT",
+      "DAI",
+      "USDC"
+    ],
+    [
+      "ETH",
+      "WETH",
+      "WBTC",
+      "USDT",
+      "USDC",
+      "DAI"
+    ]
+  ],
+  "blocked_pool_ids": [
+    "0xcc36bffe1ef4b823cca59dc00a6f228cd2a3c6e610adf4842aed3a60ec4a2abe",
+    "0x460648ba1ddcbc4f33e9611d556a4e5b7f245236d953b6dd81de1e783baba444",
+    "0x1392d1ef2c7b8943108f6935da5f419e5d4a5c0ff4f210b7e626f78791a145af",
+    "0xa3365b362baee09c8a5dbf451bbac49f8feececffc1204931803c50200fff2d1",
+    "0x3ceab2d4b7104a2d6c34ead1255cd07daad5886e4d75b2932f325d2c99e6a7cc",
+    "0xe008f37ad0b121d02391600ecb16dd97bb46df1bfd94d06e839a2208bcf65c90",
+    "0xd6c57d96629f5186ec8e66170821590416aa67b9cff372bdfc69ecdff62d2064",
+    "0x845a89092138fd314ecb527adbe673d0450b292fc6c550c68b1ac5727126c94e"
+  ],
+  "hooks": [
+    {
+      "poolKey": {
+        "primaryToken": "fwUSDC",
+        "secondaryToken": "USDC",
+        "fee": 0,
+        "tickSpacing": 1,
+        "hooks": "0x4b2EB653D13E6C9ac5A0A01fDe22F2C8d6592888"
+      },
+      "poolId": "0x5837e6b4fd4b8193f2f7a8b4490c0f154344bb9a52b36a885578ff6d3193fc47",
+      "customQuote": true
+    },
+    {
+      "poolKey": {
+        "primaryToken": "USDC",
+        "secondaryToken": "mUSD",
+        "fee": 0,
+        "tickSpacing": 1,
+        "hooks": "0xDe400595199E6Dae55a1bcb742B3Eb249AF00800"
+      },
+      "poolId": "0x6b3403809baa251f186c546908d6ebdbd5dc52527b2b3f8bc7d4f5a437091b0f",
+      "customQuote": false
+    },
+    {
+      "poolKey": {
+        "primaryToken": "ETH",
+        "secondaryToken": "FWA",
+        "fee": 0,
+        "tickSpacing": 60,
+        "hooks": "0x2C67ebA8A50AF0dB5Fba55F725247a75CbDA6444"
+      },
+      "poolId": "0x230ecd3c25b44af30db59c15f70df7794eb13f67a200f230b7400daa96fe804d",
+      "customQuote": true
+    },
+    {
+      "poolKey": {
+        "primaryToken": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+        "secondaryToken": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+        "fee": 0,
+        "tickSpacing": 60,
+        "hooks": "0xcddE8f9c3414A00f804E5C565Eed9949AD17e888"
+      },
+      "poolId": "0xedb57cd668fd4ea13df1006ab0d6ed16270b2532bbee694939c29748aca5732e",
+      "customQuote": true
+    }
+  ],
+  "aggregator_hook_sources": [
+    {
+      "protocol": "curveStableSwap",
+      "factory": "0x6D2dfa3F75d2a84A4Ad135E501423ecC5D435262",
+      "maxRecords": 1
+    },
+    {
+      "protocol": "curveStableSwapNG",
+      "factory": "0x84E25F5Fa505A364ad7429068013D1Ca2B0d1628"
+    },
+    {
+      "protocol": "fluidDexT1",
+      "factory": "0x93E11C2b6Bf3fdbaE87727eB7cF1314e033Cba41"
+    },
+    {
+      "protocol": "sushiSwapV2",
+      "hook": "0x0246A4307C13BfE516139f55EaaEDd3483882888"
+    },
+    {
+      "protocol": "sushiSwapV3",
+      "hook": "0x0359E30D4E8E098f1033f948182F88E43EfD6888"
+    },
+    {
+      "protocol": "pancakeSwapV3",
+      "hook": "0x9338644744b78A28db36cbf535C7d4E4eb17A888"
+    },
+    {
+      "protocol": "pancakeSwapV2",
+      "hook": "0x0207Bcb5fc4b740167c578e59BDe59801e78E888"
+    }
+  ],
+  "adhoc_hooks": [],
+  "adhoc_hook_quotes_enabled": true,
+  "unknown_hook_admission_enabled": true,
+  "aggregator_hook_discovery_sec": 60,
+  "aggregator_hook_bounds_refresh_sec": 3600
+}

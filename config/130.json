@@ -1,0 +1,28 @@
+{
+  "chain_id": 130,
+  "factories": {
+    "UniswapV2Factory": "0x1f98400000000000000000000000000000000002",
+    "UniswapV3Factory": "0x1f98400000000000000000000000000000000003",
+    "PoolManager": "0x1f98400000000000000000000000000000000004"
+  },
+  "common_tokens": [
+    "ETH",
+    "WETH",
+    "USDC"
+  ],
+  "fallback_orders": [
+    [
+      "ETH",
+      "WETH",
+      "USDC"
+    ]
+  ],
+  "blocked_pool_ids": [],
+  "hooks": [],
+  "aggregator_hook_sources": [],
+  "adhoc_hooks": [],
+  "adhoc_hook_quotes_enabled": true,
+  "unknown_hook_admission_enabled": true,
+  "aggregator_hook_discovery_sec": 60,
+  "aggregator_hook_bounds_refresh_sec": 3600
+}

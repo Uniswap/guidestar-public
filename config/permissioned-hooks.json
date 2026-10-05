@@ -1,0 +1,84 @@
+{
+  "_comment": "GENERATED FILE - public identity view of PERMISSIONED_HOOKS_BY_CHAIN (packages/lib/sharedconfig/permissionedTokens.ts). Regenerate with `bun run generate:permissioned-hooks` from packages/lib/sharedconfig.",
+  "version": 1,
+  "chains": {
+    "1": [
+      {
+        "hookAddress": "0x499a724ab630549f14c995ec41a8e04fa3fd28c0",
+        "adapters": [
+          {
+            "address": "0x14d60e7fdc0d71d8611742720e4c50e7a974020c",
+            "decimals": 18,
+            "underlyingToken": "0x14d60e7fdc0d71d8611742720e4c50e7a974020c"
+          },
+          {
+            "address": "0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e",
+            "decimals": 18,
+            "underlyingToken": "0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e"
+          }
+        ]
+      }
+    ],
+    "8453": [
+      {
+        "hookAddress": "0x5750be78fedfb2fa48faa6c6623400ba4538a8c0",
+        "adapters": []
+      }
+    ],
+    "57073": [
+      {
+        "hookAddress": "0x3c5903cea9f15e1e59758c8f9267d39c16ea28c0",
+        "adapters": []
+      }
+    ],
+    "11155111": [
+      {
+        "hookAddress": "0x2435accb60e5feead7b670c35a02b0de101a4880",
+        "adapters": [
+          {
+            "address": "0x1c09cd042636a881421c72acc3b8bb8338bceb95",
+            "decimals": 18
+          },
+          {
+            "address": "0x41c0d18d34c61e36145491a6e5cf971819f14159",
+            "decimals": 18
+          }
+        ]
+      },
+      {
+        "hookAddress": "0x51247e2291d290d17c08813a175ac86465ede8c0",
+        "adapters": [
+          {
+            "address": "0x8308119359f9fb7dea90b1b977276a6d89902818",
+            "decimals": 18,
+            "underlyingToken": "0x16d5b2d52fc9b218c1df080ce8262996f6380d6f"
+          },
+          {
+            "address": "0xc6f4b10e842d16a35dd49853a9d3f3169442bfd0",
+            "decimals": 18,
+            "underlyingToken": "0x3a93b81ab30b45dc2b394144efac142832cc360d"
+          },
+          {
+            "address": "0xe5b72177ed806888ca790056bbefb79b9b941623",
+            "decimals": 6,
+            "underlyingToken": "0xb9ae0057983e8f6b9ff9b8f7d6b6b0badccbe5dd"
+          },
+          {
+            "address": "0xeee63018a25a7031ba994bd67577ba0d97fc7c49",
+            "decimals": 0,
+            "underlyingToken": "0xda11821e95fcf01266d7ea46e1ca0aeb23cd76cd"
+          }
+        ]
+      },
+      {
+        "hookAddress": "0x807f0c49de241f46844bf28df4195bda48a3a880",
+        "adapters": [
+          {
+            "address": "0x740ee255852f114b18b9b94ae754ae6f8413897d",
+            "decimals": 18
+          }
+        ]
+      }
+    ]
+  }
+}

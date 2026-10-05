@@ -1,0 +1,123 @@
+{
+  "chain_id": 4663,
+  "factories": {
+    "UniswapV2Factory": "0x8bceaa40b9acdfaedf85adf4ff01f5ad6517937f",
+    "UniswapV3Factory": "0x1f7d7550b1b028f7571e69a784071f0205fd2efa",
+    "PoolManager": "0x8366a39cc670b4001a1121b8f6a443a643e40951"
+  },
+  "common_tokens": [
+    "ETH",
+    "WETH",
+    "USDG",
+    "SPY",
+    "NVDA",
+    "TSM"
+  ],
+  "fallback_orders": [
+    [
+      "ETH",
+      "WETH",
+      "USDG",
+      "SPY",
+      "NVDA",
+      "TSM"
+    ],
+    [
+      "SPY",
+      "NVDA",
+      "ETH",
+      "WETH",
+      "USDG",
+      "TSM"
+    ]
+  ],
+  "blocked_pool_ids": [],
+  "hooks": [],
+  "aggregator_hook_sources": [],
+  "adhoc_hooks": [
+    {
+      "address": "0xe5e702641ea86f4ae6cc3cdaed2b886f976be044",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x4e3468951d49f2eea976ed0d6e75ffcb44a9a544",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x06a889870c8f83640d6816319f72e2aa579b6080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xa0e8fbff13e24af2b5e61a72800e08a161bde080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x64e9ae1066c47ac4a3cc0a5bd7b135908590e088",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0xc52fc52698479e42f0da9a8a75296ec3871454c0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x64c6103255ccc638febe3619aeb52d2b59d6a0cc",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0xb608a78761f179f7c56f15e7d13921b92f00a080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x16d1560630ce74af4478d9b8ad46548a092a2000",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x66622f77b797d506e5376f7798b67ab288966080",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x67d86050d22d574df046f3d90f722045f714e080",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x594e8e6281edf2d363a0293a50004cf868e7a080",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0xa4e6f5500e88691fdcb289aa0e99067481434880",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x720e649549f7bc2118acba9f4c9ae6fcc7586080",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0xfb2a13e978d88eebc75227c0857b8b65772940c0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xd34e9fd6b28281c67ddd41d0028214e1b34cb000",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xa4570c37590e45f0b06898123d4de16307a32080",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x79576fbad6e83915630bbb5d5658483f05532080",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x5eb87f69be00df39981622fd60a8de4b7837e080",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x08e52564bad99e05a694b4809f397edca417a080",
+      "bypassDepthGate": true
+    }
+  ],
+  "adhoc_hook_quotes_enabled": true,
+  "unknown_hook_admission_enabled": true,
+  "aggregator_hook_discovery_sec": 60,
+  "aggregator_hook_bounds_refresh_sec": 3600
+}

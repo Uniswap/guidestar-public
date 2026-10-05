@@ -1,0 +1,80 @@
+{
+  "chain_id": 8453,
+  "factories": {
+    "UniswapV2Factory": "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6",
+    "UniswapV3Factory": "0x33128a8fC17869897dcE68Ed026d694621f6FDfD",
+    "PoolManager": "0x498581ff718922c3f8e6a244956af099b2652b2b"
+  },
+  "common_tokens": [
+    "USDC",
+    "ZORA",
+    "WETH",
+    "ETH",
+    "VIRTUAL",
+    "USDbC",
+    "cbBTC",
+    "DAI"
+  ],
+  "fallback_orders": [
+    [
+      "ETH",
+      "WETH",
+      "cbBTC",
+      "DAI",
+      "USDC"
+    ],
+    [
+      "ETH",
+      "WETH",
+      "cbBTC",
+      "USDC",
+      "DAI"
+    ]
+  ],
+  "blocked_pool_ids": [],
+  "hooks": [],
+  "aggregator_hook_sources": [
+    {
+      "protocol": "pancakeSwapV3",
+      "hook": "0x9388fcCc70A90e268dbe8a4FbC5E7024EbF86888"
+    },
+    {
+      "protocol": "aerodromeSlipstream",
+      "hook": "0xa1d866042c0989570Cc35ce102C03d14184EE888"
+    }
+  ],
+  "adhoc_hooks": [
+    {
+      "address": "0x985c14baa2a18316ffda0aefb3a632fadfca2acc",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x128bedebaa9304db74726efba848a98e7fb53a80",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xbb7784a4d481184283ed89619a3e3ed143e1adc0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xbdf938149ac6a781f94faa0ed45e6a0e984c6544",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x3b2b979df21036cee51b8debb13100e2cb8deacc",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0xb429d62f8f3bffb98cdb9569533ea23bf0ba28cc",
+      "bypassDepthGate": true
+    },
+    {
+      "address": "0x2fd54aaf84023eda60bd65edb5914c1a306850cc",
+      "bypassDepthGate": true
+    }
+  ],
+  "adhoc_hook_quotes_enabled": true,
+  "unknown_hook_admission_enabled": true,
+  "aggregator_hook_discovery_sec": 60,
+  "aggregator_hook_bounds_refresh_sec": 3600
+}
