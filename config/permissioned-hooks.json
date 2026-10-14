@@ -8,13 +8,11 @@
         "adapters": [
           {
             "address": "0x14d60e7fdc0d71d8611742720e4c50e7a974020c",
-            "decimals": 18,
-            "underlyingToken": "0x14d60e7fdc0d71d8611742720e4c50e7a974020c"
+            "decimals": 18
           },
           {
             "address": "0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e",
-            "decimals": 18,
-            "underlyingToken": "0x43415eb6ff9db7e26a15b704e7a3edce97d31c4e"
+            "decimals": 18
           }
         ]
       }

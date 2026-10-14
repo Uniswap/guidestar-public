@@ -118,6 +118,28 @@
       },
       "poolId": "0xedb57cd668fd4ea13df1006ab0d6ed16270b2532bbee694939c29748aca5732e",
       "customQuote": true
+    },
+    {
+      "poolKey": {
+        "primaryToken": "USDC",
+        "secondaryToken": "USDT",
+        "fee": 8388608,
+        "tickSpacing": 1,
+        "hooks": "0x0000113dCf4ADd69999Fad8F20F2b63F979bfcC0"
+      },
+      "poolId": "0x2b21c65d9a7dc6926ee330a1c6e5a8037fd81774f3dc066536f800128e39f634",
+      "customQuote": true
+    },
+    {
+      "poolKey": {
+        "primaryToken": "USDC",
+        "secondaryToken": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
+        "fee": 8388608,
+        "tickSpacing": 1,
+        "hooks": "0x0000113dCf4ADd69999Fad8F20F2b63F979bfcC0"
+      },
+      "poolId": "0xeda62d2906d0edf26d40c793d581609552a44a87f618a98ff76ebe8dde4b7edb",
+      "customQuote": true
     }
   ],
   "aggregator_hook_sources": [
