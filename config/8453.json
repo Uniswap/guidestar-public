@@ -31,7 +31,17 @@
       "DAI"
     ]
   ],
-  "blocked_pool_ids": [],
+  "blocked_pool_ids": [
+    "0xb1f4f5b1f144cbdc7bbb1cd27228041f7c0fc39b4e82f0546a8aee3b8ddad99d",
+    "0x19e2c0b21a6967bc1563d7eba8b80b1284c0fc4f564a30e5a93dbd0101a7b503",
+    "0xc9165922c3b1ac22fc14e810f28580140fdabe89159953c98f6aca73d25afdc3",
+    "0xa38a3884ec64d843b06102104fbae7e5d4516d0ce9fa7f071bf7b5d900d3c0c2",
+    "0xeff705342b412da9a08471ce478c1d02c024fc8359c37dfff569bc49a7e6bb14",
+    "0xc31e7f86c51f09642d42dc43ca9be10f4d96b15d2c47b2723b151cf130a7d16f",
+    "0x3d4fa41bf0767e8792798e896764eac0d1d251676b8181b1dca16fe36b74855f",
+    "0x775f43bd181e8abeeaf1ba3146cc7bf52ed4401cdfc93ae5e17279d478bc627b",
+    "0xab231513f137202578d5f73c27d0985888d09bd66cb5984536e241c7ed5d72d8"
+  ],
   "hooks": [],
   "aggregator_hook_sources": [
     {
