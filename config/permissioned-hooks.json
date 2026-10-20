@@ -76,6 +76,16 @@
             "decimals": 18
           }
         ]
+      },
+      {
+        "hookAddress": "0xe14faba2f92e9f48b36ba6dd08bbc69333a80888",
+        "adapters": [
+          {
+            "address": "0x7d8621c0fc41c96020ef2ab33bdd46982d86da29",
+            "decimals": 18,
+            "underlyingToken": "0x595741f539ba8c2c5f5e93008df6355c0cf8a9e0"
+          }
+        ]
       }
     ]
   }
