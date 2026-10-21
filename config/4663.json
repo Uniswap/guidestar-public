@@ -68,7 +68,16 @@
     "0x5f584f508069bbc466431fe7246c812fefb1e518c3dbc0c2876b0ef8f652c85d"
   ],
   "hooks": [],
-  "aggregator_hook_sources": [],
+  "aggregator_hook_sources": [
+    {
+      "protocol": "aerodromeSlipstream",
+      "hook": "0xA117C4f25474b1283345E4DF8D88b9aeC4F62888"
+    },
+    {
+      "protocol": "aerodromeSlipstream",
+      "hook": "0xA1AD09c98710d2C709e3bea03708823255312888"
+    }
+  ],
   "adhoc_hooks": [
     {
       "address": "0xe5e702641ea86f4ae6cc3cdaed2b886f976be044",
