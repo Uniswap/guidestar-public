@@ -85,6 +85,17 @@
             "decimals": 18,
             "underlyingToken": "0x595741f539ba8c2c5f5e93008df6355c0cf8a9e0"
           }
+        ],
+        "poolIds": [
+          "0x9de38da27a2495727b234e823a1da72a6a8d9ab98f6fad1d7ef2a6f012e0e790"
+        ],
+        "poolKeys": [
+          {
+            "currency0": "0x7d8621c0fc41c96020ef2ab33bdd46982d86da29",
+            "currency1": "0x9ccc7a9e88bc07e0eb3e419126e60f841564a375",
+            "fee": 0,
+            "tickSpacing": 1
+          }
         ]
       }
     ]
