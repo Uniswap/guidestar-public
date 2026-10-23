@@ -188,6 +188,10 @@
     {
       "protocol": "pancakeSwapV2",
       "hook": "0x0207Bcb5fc4b740167c578e59BDe59801e78E888"
+    },
+    {
+      "protocol": "aeroSlipstreamV3",
+      "hook": "0xa176880Cb43f5dE927dF50238b2441cAe2842888"
     }
   ],
   "adhoc_hooks": [],

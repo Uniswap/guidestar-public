@@ -76,6 +76,10 @@
     {
       "protocol": "aerodromeSlipstream",
       "hook": "0xA1AD09c98710d2C709e3bea03708823255312888"
+    },
+    {
+      "protocol": "aeroSlipstreamV3",
+      "hook": "0xA13FCD837a155DE23d916A4a60B5949e85Fa2888"
     }
   ],
   "adhoc_hooks": [
