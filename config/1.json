@@ -157,6 +157,17 @@
       },
       "poolId": "0x98316e8405502774a5d0a0761276b5d26505a8195c1905169864008d5e7a3eea",
       "customQuote": true
+    },
+    {
+      "poolKey": {
+        "primaryToken": "ETH",
+        "secondaryToken": "AZTEC",
+        "fee": 500,
+        "tickSpacing": 10,
+        "hooks": "0xd53006d1e3110fD319a79AEEc4c527a0d265E080"
+      },
+      "poolId": "0xce2899b16743cfd5a954d8122d5e07f410305b1aebee39fd73d9f3b9ebf10c2f",
+      "customQuote": false
     }
   ],
   "aggregator_hook_sources": [
