@@ -20,7 +20,12 @@
   "blocked_pool_ids": [],
   "hooks": [],
   "aggregator_hook_sources": [],
-  "adhoc_hooks": [],
+  "adhoc_hooks": [
+    {
+      "address": "0x54bd666ea7fd8d5404c0593eab3dcf9b6e2a3ac4",
+      "bypassDepthGate": false
+    }
+  ],
   "adhoc_hook_quotes_enabled": true,
   "unknown_hook_admission_enabled": true,
   "aggregator_hook_discovery_sec": 60,

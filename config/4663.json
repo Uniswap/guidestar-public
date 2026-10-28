@@ -146,7 +146,7 @@
     },
     {
       "address": "0x64e9ae1066c47ac4a3cc0a5bd7b135908590e088",
-      "bypassDepthGate": true
+      "bypassDepthGate": false
     },
     {
       "address": "0x64c6103255ccc638febe3619aeb52d2b59d6a0cc",
@@ -154,10 +154,6 @@
     },
     {
       "address": "0xb608a78761f179f7c56f15e7d13921b92f00a080",
-      "bypassDepthGate": false
-    },
-    {
-      "address": "0x16d1560630ce74af4478d9b8ad46548a092a2000",
       "bypassDepthGate": false
     },
     {
@@ -203,6 +199,374 @@
     {
       "address": "0x08e52564bad99e05a694b4809f397edca417a080",
       "bypassDepthGate": true
+    },
+    {
+      "address": "0x88e5d1cf9907acd48e7c81ff6ebc088ad358a5cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x15e5e7206c661a1e881f5cd33a94eaf2328fa8cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x09e5624d01dba8f3a92f4c85d331ee387af0e0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x0a554e092771b5b271171a6123b7f0cfd15460cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x0b1daad7084aca64e2c21cf1b16374b8a26968cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x0c9ddd9e45817252d56f70ec015a4e828212a0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x0e0a2593831f413a0267016bf2eedc7ad0b16044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x0fcb47dcfbd8365f9cc3d34fc6e6595485fac0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x106b176f14fc793e37178b8afdea3bbd13eba044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x107251ffcc1fc808643dc8da345e901f59ec2044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x14637f24f9c778aef1637ba836ff8580395fe0c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x1c3794f44430fd5bbcde988d8a636df6699068cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x1cdbdc57b803a5270f76b52468b3d368d124e0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x2380abf72c17aabab76480244759ac7e2932eecc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x24d9308561c322a603370a0c3bead39e05da00cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x2a16d0973385952cfbe750d37f803d0958472844",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x2a8dfc6608dd8cc8dcb385f8876947f181c1d0ec",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x2cd91bd228ff4c537031d6b8204782090c84c0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x332f85e7e323214b2d55286414b059ebb1f2a044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x35b59db64335c22840d98be894b8f3e1e2efd080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x376aa4c2e48ac2498caaac06bd7a6b6ef373f8e0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x380a2836760631d8b69ac1cbafce60bb919b40cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x3d1bfb1e3634c9d278359143ee7bb0e12cf690c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x412233c138299cb76d937a96f7fed133563144cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x48c22af8ad989fc9d5e82d6055dc0f263076e0c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x49da475657157f2cc276024d5920ad61ad30c0c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x50844d4553e252ca779b736e34db1e6743ec6044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x51149a925e9193ea13ae406da6cc154eccd0a044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x52ff89461872e17d5861dc769897c71a8065e044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x5a9e9859d2bff9e103dc061185731dfa802a6acc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x5f3667e93079ba614607e0665d5157a1041aa0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x62f788a21a26ee3fe5d70ef6ef9942d8b2cb8044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x665c52d02ddc506dfb3158c100edc77fe412a8c0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x6cdfb1f3dec216b16b206ea2387c119b3a34a080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x70a9a88402989226847ec122043ce5e7ff462080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x70f9835c096ec6ca60b2b4a8674d141eecec40c0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x729f012edde46c7c134bdb4b028a6fedb0409080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x75a54357d9c78a2db19004a5fdc76c50f9242aec",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x7d309a342f12e7f788ccf992740e5c482d4b6044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x83608601b5db694a63f38686ec064312b60420cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x83b1a8f2ffcd2e9898ffe55fe53444943200c8cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x83d6fa59bef503112887b16277cf559fdc93e0c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x86460353c4264eeb3ac7b4d7c836b18b7f84e444",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x88b2d9f3abddec35cca02f7a52c0b0294b7704cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x8933d28e68d02faa02436aef42e6ba9674698044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x8af95932ec4484fb10c641a4cbcf19a798cb2080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x8b1256ed9b20ac387151e956498ec9fd0e291080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x8e99d2009d60a917e9b1c00c04c077b8c0c3a044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x8f6cdbd0f47158cbefca49a74aa050d2b956a0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x8fecfbffd5f5e430d3a375c0af0fdb5a458f6044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x9265a95731ce3324d3560573f642ed7006789acc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x99b00ecf6c6cfd4ac18f22a1245bb2d0087b6444",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xa0cfc3eb8339001971f4473365cb1614971a40cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xa19b52055ca74d5a8764745c932595b4c5d0f8cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xa35ebc56f0a1cb4762eabd788dad8606667da0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xa527da47273720a1178b7a44ac8907628242e0c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xa9362f54b41bd75a9c3f5dfc295aad79ddabe044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xab1463582af21d843e2425fc0e5b5cee190a40cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xaf59944a7d03b914567cb0272b7e588a7ae7aac4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xb0c700d7d93e38a6e27af8335733b1b2c9bfa544",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xb1a660b86c85561263de93cb9aa534c46a5d0044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xb31780aad49d3cc7dd6e03e9e462606f0a5a30cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xba7bcddca454841ec6b2fe3ebc8d9d881ad4e0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xc078941e04c8b7161ac5539d8df027bb797a00c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xc282245a22b602c90d04283b22e414f75afc20c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xc538c832bf24e2bc53eb19decefa0bcfd59dd0c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xcb787a5cdea8b3715d984d82f1203fd7bfebe0c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xd0757ddd2eb737b064f5460148a811becf7010c0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xd3be000d2d970a00c9cfe7e1a437f5003038a0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xd64961c357327510b8416c8b25aed37b67856444",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xd6fed15af6b0e9e7f804264327865e8b2ec86044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xd88dcacf4e77b7ff2778aee824639d30cb1640cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xd99b92d2f5aa03b5f904cb16c690763393174044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xdc75967c5a8c49a82059ebdb55aeb6575ad370c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xdd1a91b3093c12bbe38ab80537f1b53a7d07a880",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xe136bc1a37fa63cbd7051d0545572a69f815a080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xe7c4c3b075c317c3473866afbc1516ccb863a0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xea22ae03085caf74ac3393f9902539fbe9786888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xea553f825bf879af542f8770144200be2c8840cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xeb05ff77166f09fe78edcf4e137e001ea1e660cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xeda3a8f4047cba1b1c9327c896b4b9f1cb393acc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xee588bcf2bd3e658f5160489f4199d1851bbf0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xf295127365a2c3055fdfba01b0596da56dcfa444",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xf40e58b64b0982571ab67976e731d71bacca90c0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xf5d9aad1bd2210fe87307b1e977005e5f267c0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xf6fbd259fd80be4dc9131efd7ed6f2089aa6e0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xf7c46f4ddb5d6b8c6a040e19cf2064e832d32444",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xf81d6a46199e4ea66a8bba266ba226ff426700cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xf88b62a1b2a8a4f55509a69eb09e2f32566c20cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xf9176589b6fe2d5f68dbef7bcc79475be21a20cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xf991bd1aba9613e10480d6b221d7817b7b82a8cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xfeda24f0d3805170e7566ce617cfba01ce05d080",
+      "bypassDepthGate": false
     }
   ],
   "adhoc_hook_quotes_enabled": true,

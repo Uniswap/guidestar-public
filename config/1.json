@@ -205,7 +205,136 @@
       "hook": "0xa176880Cb43f5dE927dF50238b2441cAe2842888"
     }
   ],
-  "adhoc_hooks": [],
+  "adhoc_hooks": [
+    {
+      "address": "0x15e5e7206c661a1e881f5cd33a94eaf2328fa8cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x0000113dcf4add69999fad8f20f2b63f979bfcc0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x044301939deb7ca53c4733dd4d9b3bc5ea0c6888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x0fe942afdb2f51e25cbf892aad175c6a574f2888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x1ba56371505975eb65bd0789bb78a977b126e888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x1df8e3ce04a62922506e4ba303e1338583155044",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x2c67eba8a50af0db5fba55f725247a75cbda6444",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x4b2eb653d13e6c9ac5a0a01fde22f2c8d6592888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x4b3e2a8cf36c7eb0fba2a5b39b20c896c6f22888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x57991106cb7aa27e2771beda0d6522f68524a888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x5d8a61fa2ced43eeabffc00c85f705e3e08c28c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x75ae0292e8ad3ab60b9a1a7b3046d3f4abdfa888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x78d1a97a9239443070be0353c68762cccf64a888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x8347b7a3807c681513d2b51b8223e59aa16a2888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x85b648a64aed6307d5d5ce26e6ae086c17bde888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x877323adbf747f85eb8d182d42f01f34a5492888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0x993b3f99a2963b65345f7b7d73bbff7ceeea28c0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xa312884b73862377317f0071ec6eb5404025a8c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xb13250f0dc8ec6de297e81cda8142db51860bac4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xb3a92b1cdcf6e5f6717aaeda563bdb39ca9a68c0",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xb8d9477eb6ef5f0df5219cf0c8130dd7e520e0cc",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xbadf77d50478b4432ef1f243b9c0bc7869486888",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xbd15e4d324f8d02479a5ff53b52ef4048a79e444",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xbdf938149ac6a781f94faa0ed45e6a0e984c6544",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xd53006d1e3110fd319a79aeec4c527a0d265e080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xd6a45df0c82c9a686ab1e58fb28d8fc0cf106444",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xdaf785665b6277c19dd68e63fbd42a55253f5080",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xde400595199e6dae55a1bcb742b3eb249af00800",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xdee7a2ffa963f82facbb12a4e3e8909e4a51a444",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xe3c63a9813ac03be0e8618b627cb8170cfa468c4",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xe54082dfbf044b6a8f584bdddb90a22d5613c440",
+      "bypassDepthGate": false
+    },
+    {
+      "address": "0xf13bdafb90c79f2201e2ce42010c8ef75fede8c4",
+      "bypassDepthGate": false
+    }
+  ],
   "adhoc_hook_quotes_enabled": true,
   "unknown_hook_admission_enabled": true,
   "aggregator_hook_discovery_sec": 60,
