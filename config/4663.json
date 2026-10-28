@@ -149,10 +149,6 @@
       "bypassDepthGate": true
     },
     {
-      "address": "0xc52fc52698479e42f0da9a8a75296ec3871454c0",
-      "bypassDepthGate": false
-    },
-    {
       "address": "0x64c6103255ccc638febe3619aeb52d2b59d6a0cc",
       "bypassDepthGate": true
     },
