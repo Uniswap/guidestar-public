@@ -21,6 +21,27 @@
       {
         "hookAddress": "0x5750be78fedfb2fa48faa6c6623400ba4538a8c0",
         "adapters": []
+      },
+      {
+        "hookAddress": "0xd49f2426c19cba72d7ae919d7704f3497b234888",
+        "adapters": [
+          {
+            "address": "0x020ea771fd46a30b9def546463f8b4cdd199352e",
+            "decimals": 18,
+            "underlyingToken": "0x3dcce9e05fc9c30a6a4e9fc1c0ec1ff15c16e0b5"
+          }
+        ],
+        "poolIds": [
+          "0x1eba073a6a00bc20e051d73c534afd965fd5a3b8e6c6fb7aba993293c617a16e"
+        ],
+        "poolKeys": [
+          {
+            "currency0": "0x020ea771fd46a30b9def546463f8b4cdd199352e",
+            "currency1": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "fee": 0,
+            "tickSpacing": 1
+          }
+        ]
       }
     ],
     "57073": [
