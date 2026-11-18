@@ -279,6 +279,10 @@
       "bypassDepthGate": false
     },
     {
+      "address": "0xaefba1fd93a5469ea0ce2352ec161ca0b1d1e0cc",
+      "bypassDepthGate": false
+    },
+    {
       "address": "0xb13250f0dc8ec6de297e81cda8142db51860bac4",
       "bypassDepthGate": false
     },
