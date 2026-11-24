@@ -73,9 +73,19 @@
             "underlyingToken": "0x16d5b2d52fc9b218c1df080ce8262996f6380d6f"
           },
           {
+            "address": "0xb368543e62c1bcc34732f52c0fecd48423eb6914",
+            "decimals": 2,
+            "underlyingToken": "0x26eea7567a8b1a900f9bebd627f8ce07212ace02"
+          },
+          {
             "address": "0xc6f4b10e842d16a35dd49853a9d3f3169442bfd0",
             "decimals": 18,
             "underlyingToken": "0x3a93b81ab30b45dc2b394144efac142832cc360d"
+          },
+          {
+            "address": "0xe0fe6792dfa4e38b73f7a7ecc6b7873f7d509728",
+            "decimals": 2,
+            "underlyingToken": "0xd824a531fa7506e1516ae24de2c9a1ab4709be12"
           },
           {
             "address": "0xe5b72177ed806888ca790056bbefb79b9b941623",
@@ -86,6 +96,17 @@
             "address": "0xeee63018a25a7031ba994bd67577ba0d97fc7c49",
             "decimals": 0,
             "underlyingToken": "0xda11821e95fcf01266d7ea46e1ca0aeb23cd76cd"
+          }
+        ],
+        "poolIds": [
+          "0xc798944e1d654ebde15719e6bb07638cf2fadc43da0ec55331bd79e6f53462e0"
+        ],
+        "poolKeys": [
+          {
+            "currency0": "0x1c7d4b196cb0c7b01d743fbc6116a902379c7238",
+            "currency1": "0xe0fe6792dfa4e38b73f7a7ecc6b7873f7d509728",
+            "fee": 100,
+            "tickSpacing": 10
           }
         ]
       },
