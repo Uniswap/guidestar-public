@@ -10,8 +10,7 @@
     "WETH",
     "USDG",
     "SPY",
-    "NVDA",
-    "TSM"
+    "NVDA"
   ],
   "fallback_orders": [
     [
@@ -19,16 +18,14 @@
       "WETH",
       "USDG",
       "SPY",
-      "NVDA",
-      "TSM"
+      "NVDA"
     ],
     [
       "SPY",
       "NVDA",
       "ETH",
       "WETH",
-      "USDG",
-      "TSM"
+      "USDG"
     ]
   ],
   "blocked_pool_ids": [
