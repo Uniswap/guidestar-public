@@ -40,43 +40,12 @@
     "0xc31e7f86c51f09642d42dc43ca9be10f4d96b15d2c47b2723b151cf130a7d16f",
     "0x3d4fa41bf0767e8792798e896764eac0d1d251676b8181b1dca16fe36b74855f",
     "0x775f43bd181e8abeeaf1ba3146cc7bf52ed4401cdfc93ae5e17279d478bc627b",
-    "0xab231513f137202578d5f73c27d0985888d09bd66cb5984536e241c7ed5d72d8"
+    "0xab231513f137202578d5f73c27d0985888d09bd66cb5984536e241c7ed5d72d8",
+    "0x5e44a0dd76ff79bbce1059e39294cbaf1642e7a7f79216502a131c4d9dbf72b4",
+    "0x1c59b502e27ba45ff31f452315dda3e2b2aec020b5042f9d39000b99cdf87669",
+    "0x33af3ece07aa0b43e97f90bab4fa7e6102e411f1ebd252bd0e845427e9e6edbd"
   ],
-  "hooks": [
-    {
-      "poolKey": {
-        "primaryToken": "WETH",
-        "secondaryToken": "USDC",
-        "fee": 0,
-        "tickSpacing": 4,
-        "hooks": "0x4D4044D6f5C62389D7F79cF86435A220b7BB2888"
-      },
-      "poolId": "0x5e44a0dd76ff79bbce1059e39294cbaf1642e7a7f79216502a131c4d9dbf72b4",
-      "customQuote": true
-    },
-    {
-      "poolKey": {
-        "primaryToken": "USDC",
-        "secondaryToken": "cbBTC",
-        "fee": 0,
-        "tickSpacing": 5,
-        "hooks": "0x4D4044D6f5C62389D7F79cF86435A220b7BB2888"
-      },
-      "poolId": "0x1c59b502e27ba45ff31f452315dda3e2b2aec020b5042f9d39000b99cdf87669",
-      "customQuote": true
-    },
-    {
-      "poolKey": {
-        "primaryToken": "WETH",
-        "secondaryToken": "cbBTC",
-        "fee": 0,
-        "tickSpacing": 6,
-        "hooks": "0x4D4044D6f5C62389D7F79cF86435A220b7BB2888"
-      },
-      "poolId": "0x33af3ece07aa0b43e97f90bab4fa7e6102e411f1ebd252bd0e845427e9e6edbd",
-      "customQuote": true
-    }
-  ],
+  "hooks": [],
   "aggregator_hook_sources": [
     {
       "protocol": "pancakeSwapV3",
